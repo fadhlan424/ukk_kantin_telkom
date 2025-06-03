@@ -16,9 +16,13 @@
     <div class="row align-items-center">
       <!-- Foto Kantin -->
       <div class="col-md-6 mb-4">
-        <img src="gambar1.jpg" alt="Foto Kantin" class="img-fluid rounded shadow" />
+        <img src="assets\gambar_kantin.jpg" alt="Foto Kantin" class="img-fluid rounded shadow" />
       </div>
 
+    <div class="col-md-6 mb-4">
+        <img src="assets\th-removebg-preview.png" alt="Foto Kantin" class="img-fluid rounded shadow" />
+      </div>
+      
       <!-- Tulisan tentang kantin -->
       <div class="col-md-6 mb-4">
         <h2>Tentang Kantin SMK</h2>
@@ -37,7 +41,11 @@
       </div>
     </div>
   </div>
-
+  
+  <footer style="text-align: center; padding: 20px; background-color: #e9e9e9;">
+      <p>&copy; 2025 Dibuat oleh Siswa SMK Telkom</p>
+  </footer>
+  
   <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
